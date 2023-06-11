@@ -1,6 +1,7 @@
 # Agent-based SLIR Modelling of Powdery Mildew Infection Spread in Grapevines
 
-![state_machine](/resources/state_machine.png)
+<img src="resources/state_machine.png" alt="state_machine" width="640"/>
+
 
 This notebook presents an agent-based model in combination with a SIR-like compartmental model of powdery mildew infection spread among grapevines in a spatial grid.
 
